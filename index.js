@@ -7,4 +7,4 @@ app.use(async ctx => {
 }); 
 console.log(_.last([1, 2, 3]))  
 
-// app.listen(3000);
+app.listen(8001);
